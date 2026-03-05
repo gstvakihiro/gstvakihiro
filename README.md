@@ -6,7 +6,7 @@ Prazer, meu nome é Gustavo Akihiro, tenho 24 anos e atualmente estou no 7º per
 * Tenho conhecimento em Python e comecei meus estudos em JavaScript
 * Membro da equipe [CodEX](https://github.com/CodEX-Open)
 * Roteirista e entrevistador do [Eniac Cast](https://youtube.com/@eniacastunifev)
-* Diretor executivo da Octabit
+* Diretor executivo da [Octabit](https://github.com/AtleticaOctabit)
 
 ## Áreas de Interesse 🎯
 Tenho experiência em Desenvolvimento Web, porém estou sempre aberto à novos desafios que influenciem de forma positiva na minha vida profissional e pessoal.
